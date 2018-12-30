@@ -17,7 +17,8 @@
 			"PR": "Practica",
 			"IN": "Invention",
 			"TR": "Treatment"
-		}
+		},
+		"dateAdded": 1546081374
 	},
 	"class": [
 		{
@@ -66,7 +67,7 @@
 					"(a) a shortsword, (b) any simple weapon, or (c) any martial weapon (if proficient)",
 					"(a) leather armor or (b) scale armor (if proficient)",
 					"(a) a light crossbow and 20 bolts or (b) any simple weapon",
-					"(a) a scholar’s pack or (b) an explorer’s pack",
+					"(a) a scholar's pack or (b) an explorer's pack",
 					"a medical kit (Physician pursuit only)"
 				],
 				"goldAlternative": "{@dice 5d4×10|5d4 × 10|Starting Gold}"
@@ -536,7 +537,7 @@
 										"name": "Bonus Proficiencies",
 										"entries": [
 											"You are proficient in Dexterity saving throws if scholar is your first class.",
-											"Additionally, when you choose this pursuit at 1st level, you gain proficiency in tinker’s tools, and you can add half your proficiency bonus, rounded down, to any ability check you make using a tool that doesn't already include your proficiency bonus."
+											"Additionally, when you choose this pursuit at 1st level, you gain proficiency in tinker's tools, and you can add half your proficiency bonus, rounded down, to any ability check you make using a tool that doesn't already include your proficiency bonus."
 										]
 									}
 								]
@@ -1395,9 +1396,9 @@
 			"fluff": [
 				{
 					"entries": [
-						"A human general, clad in gleaming armor, studies the map on the table in front of him, covered in figurines that represent units of his soldiers and invading orcs. He consults a leather-bound journal filled with notes he’s made on the enemy’s tribe, their customs and battle tactics, and he moves two pieces confidently forward.",
+						"A human general, clad in gleaming armor, studies the map on the table in front of him, covered in figurines that represent units of his soldiers and invading orcs. He consults a leather-bound journal filled with notes he's made on the enemy's tribe, their customs and battle tactics, and he moves two pieces confidently forward.",
 						"A wild-haired dwarf stands at the head of a long caravan. She surveys the valley below and plots their course through the untamed wilds. Unrolling a sheaf of parchment, she sketches in new features on an expertly drawn map and then motions for the caravan to follow, leading them deeper into unknown territory in search of treasure and knowledge. ",
-						"The halfling’s medical kit opens with a snap, and he quickly starts removing instruments and vials as he looks over his patient, coming to a diagnosis as he observes her symptoms. He mixes a tincture and applies a salve to her lesions. Her condition is advanced, but not beyond his skills. As he administers the treatment he glances up and sees his next patient coming through the door, nursing a wrist bent to an odd angle. He reaches into his bag for a splint as he takes back the vial with his tincture.",
+						"The halfling's medical kit opens with a snap, and he quickly starts removing instruments and vials as he looks over his patient, coming to a diagnosis as he observes her symptoms. He mixes a tincture and applies a salve to her lesions. Her condition is advanced, but not beyond his skills. As he administers the treatment he glances up and sees his next patient coming through the door, nursing a wrist bent to an odd angle. He reaches into his bag for a splint as he takes back the vial with his tincture.",
 						{
 							"name": "Great Minds",
 							"entries": [
@@ -1438,7 +1439,7 @@
 										],
 										[
 											5,
-											"I’ve seen might and magic fail others time and time again, but when I apply my mind to a problem I always come to a solution."
+											"I've seen might and magic fail others time and time again, but when I apply my mind to a problem I always come to a solution."
 										],
 										[
 											6,
@@ -1451,7 +1452,7 @@
 						{
 							"name": "Place of Study",
 							"entries": [
-								"The scholar’s journey often begins at an early age. Children everywhere spend much of their time growing up learning about the ways of the world. For some, this learning may be narrow in scope: a trade, the village where they live, the local folklore.",
+								"The scholar's journey often begins at an early age. Children everywhere spend much of their time growing up learning about the ways of the world. For some, this learning may be narrow in scope: a trade, the village where they live, the local folklore.",
 								"Most scholars were fortunate enough to have the privilege of a proper education in a place of learning, or at least the gumption and curiosity to turn a life on the streets into a learning experience. The circumstances of your birth and your background will likely have a significant influence on where you took your first steps on the path of the scholar.",
 								{
 									"type": "table",
